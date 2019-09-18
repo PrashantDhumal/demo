@@ -1,4 +1,4 @@
-FROM Ubuntu:18.04
+FROM docker.io/prashantdh/my_ubuntu_image
 
 RUN apt-get install nodejs
 
